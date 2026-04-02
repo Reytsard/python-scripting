@@ -50,3 +50,5 @@ if __name__ == "__main__":
 # C:\Balong\python-scripting>python 4-batch-rename\batch-rename.py 4-batch-rename\to_rename --file_type png --prefix image
 #
 # C:\Balong\python-scripting>python 4-batch-rename\batch-rename.py 4-batch-rename\to_rename --file_type ts --prefix code --suffix typescript
+#
+# !!! becareful of collision because if 1st code has been ran twice with differnt file types, it might overwrite/ have the same name and it will destroy the game.
